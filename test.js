@@ -2,7 +2,7 @@
 
 function dostuff() {
 	let a = document.getElementById('target')  
-	let d = document.getElementById('get the duck')
+	let d = document.getElementById('gettheduck')
 	let b  = prompt(a.textContent)
 	let e = prompt(d.textContent)
 	a.innerHTML = "fadfasdfaf"
