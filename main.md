@@ -7,7 +7,4 @@ you can make tables!
 | or   | this |
 
 
-
-<div style="color: red;">
-    here's some *red* _stuff_
-</div>
+here's some **bold** _stuff_
