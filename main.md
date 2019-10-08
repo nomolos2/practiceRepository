@@ -6,10 +6,8 @@ you can make tables!
 | ---- | ---- |
 | or   | this |
 
-<style type="text/css">
-    .red { color: red; }
-</style>
 
-<div class="red">
+
+<div style="color: red;">
     here's some *red* _stuff_
 </div>
