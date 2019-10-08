@@ -2,8 +2,45 @@
 <html>
 	<head>
 		<script src="test.js"></script>
+		<style type="text/css">
+			h2 {
+			  color: red;
+			}
+			#target {
+			  color: blue;
+			  background-color: orange;
+			  font: serrif;
+			  font-size: 10px;
+			}
+			#get-the-duck {
+				color: magenta;
+				backround-color; yellow;
+				font: times-new-roman;
+				font-size: 15px;
+			}
+			.ctr {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			</style>
 	</head>
 	<body onload="dostuff()">
+		<div class="ctr">
+			<h1> Welcome TPMScape </h1>
+			<h2> To begin press the button below </h2>
+			<a class="ctr" href="http://yahoo.com">
+				<img 	width="100px"
+						src="./img/duck-big-bill-59ef8e5068e1a2001072c89e.jpg" />
+			</a>
+			<button onclick="start">START</button>
+			
+			
+			<h1> this is a bigger test</h2>	
+			<div id="target"> I Am A Duck </div>
+			<div id= "get-the-duck"> I am not a duck </div>
+	
+		</div>
 
 <style type="text/css">
 h2 {
@@ -45,3 +82,5 @@ h2 {
 		</audio>
 
 		<p><strong>Note:</strong> The audio tag is not supported in Internet Explorer 8 and earlier versions.</p>
+	</body>
+</html>
