@@ -4,9 +4,13 @@ This began as an [issue](https://github.com/nomolos2/practiceRepository/issues/2
 but then it seemed like, with links to documentation and stuff, it could be a valuable reference to you and to the rest of your
 class.
 
+## Start here
+
+[MDN guide to web development](https://developer.mozilla.org/en-US/docs/Learn)
+
 ## HTML
 
-- basic HTML syntax and [elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [basic HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) syntax and [elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
  - formatting elements (MDN calls [text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Text_content) and [sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning))
    - h1, h2, ...
    - p, div, span
@@ -34,6 +38,12 @@ and in issues. If you want to include formatting, links, lists, etc. in your iss
 
 ## CSS
 
+[basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
 ## JavaScript
+
+[basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+
 
 ## HTML/CSS Frameworks
