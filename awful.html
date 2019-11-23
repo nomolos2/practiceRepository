@@ -47,7 +47,6 @@ body{
 		<div id= "get-the-duck"> I am not a duck big </div>
 	
 		<h1 class = ctr> Welcome To TPMScape </h1>
-		<h3 class = ctr> To begin press the button below </h3>
 		<button type="button" onclick="changer()">WHU U NNO CLICK ZE BUTTOKZ</button> 
 		<div id="target"> I Am A Duck I Am A Duck I Am A Duck  </div>
 		<div id= "get-the-duck">I am not a duck  </div>
@@ -59,8 +58,9 @@ body{
 	</body>
 	<script>
 		function changer(){
+			alert(document.getElementById("change").src)
 			document.getElementById("change").src="./img/file123.jpeg";
-			alert(1)
+			alert(document.getElementById("change").src)
 		}
 	</script>
 		
